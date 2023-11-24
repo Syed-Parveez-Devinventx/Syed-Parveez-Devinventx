@@ -4,16 +4,16 @@
 
 I'm Syed Parveez Afham! 
 - <i>Currently:</i> Computer Science Student. 
-- <i>Previously:</i> Huda National Degree Collage Of Art & Science.
+- <i>Collage:</i> Huda National Degree Collage Of Art & Science.
 
 <h2>💻 I'm Currently workng on</h2>
 
-- Programming Language - Java Script
+- Learning Programming Language - Java Script
 - Building - Personal Portfolio
 
 <h2> About Syed Parveez Afham⚡:</h2>
 
-I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
+Highly motivated and dedicated BCA undergraduate seeking a challenging position to apply my technical knowledge and skills in a professional work environment. Eager to contribute to the success of an organisation by leveraging my programming abilities, problem-solving skills, and passion for technology.
  
 - Check out my Linkedin: [Linkedin](https://www.linkedin.com/in/parveezafham/)
 - Know more about me: [About me]()
