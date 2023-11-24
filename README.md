@@ -10,3 +10,11 @@ I'm Syed Parveez Afham!
 
 - Programming Language - Java Script
 - Building - Personal Portfolio
+
+<h2> About Syed Parveez Afham⚡:</h2>
+
+I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
+ 
+- Check out my Linkedin: [Linkedin](https://www.linkedin.com/in/parveezafham/)
+- Know more about me: [About me]()
+- Write to me: [Connect with me](Syedparveezdevlop@gmail.com)
