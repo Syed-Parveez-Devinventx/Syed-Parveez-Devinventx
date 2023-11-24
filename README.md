@@ -17,4 +17,4 @@ I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjo
  
 - Check out my Linkedin: [Linkedin](https://www.linkedin.com/in/parveezafham/)
 - Know more about me: [About me]()
-- Write to me: [Connect with me](Syedparveezdevlop@gmail.com)
+- Write to me: [Syedparveezdevlop@gmail.com](mailto:Syedparveezdevlop@gmail.com)
