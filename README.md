@@ -1,4 +1,4 @@
-![Syed Parveez Afham Banner Image](https://github.com/Syed-Parveez-Devinventx/Syed-Parveez-Devinventx/blob/main/Biru%20dan%20Putih%20Modern%20Programmer%20Resume.png)
+![Syed Parveez Afham Banner Image]()
 
 <h2>Hey! 👋</h2>
 
