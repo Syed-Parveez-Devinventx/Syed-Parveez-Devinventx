@@ -1,4 +1,4 @@
-![Syed Parveez Afham Banner Image](./Blue%20Minimalist%20Marketing%20Profile%20Facebook%20Cover%20(1).png)
+![Syed Parveez Afham Banner Image](https://github.com/Syed-Parveez-Devinventx/Syed-Parveez-Devinventx/blob/main/Biru%20dan%20Putih%20Modern%20Programmer%20Resume.png)
 
 <h2>Hey! 👋</h2>
 
